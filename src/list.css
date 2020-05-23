@@ -1,0 +1,16 @@
+.header {
+    width: 25%;
+    height: 80px;
+    background-color: rgba(44, 62, 80,.4);
+    margin: 0 auto;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    width: 100px;
+    margin-right: 8px;
+}
+
